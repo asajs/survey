@@ -1,0 +1,15 @@
+__pycache__/
+__pycache__/*
+venv/
+venv/*
+build/
+build/*
+.idea/
+.idea/*
+ECEN324Presentations/
+ECEN324Presentations/*
+dist/
+dist/*
+*.txt
+*.docx
+*.spec
