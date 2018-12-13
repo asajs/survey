@@ -4,6 +4,7 @@ venv/
 venv/*
 build/
 build/*
+dist/*.txt
 .idea/
 .idea/*
 ECEN324Presentations/
